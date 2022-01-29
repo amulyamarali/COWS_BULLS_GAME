@@ -11,3 +11,8 @@ Bulls denote the no od right places.
 I have just tried to implement the Mastermind game in my own way.
 You can use my code and enhance by adding more features such as GUI.
 Thank you for looking into it.
+
+PACKAGES TO BE INSTALLED:
+pyttsx3
+
+you can install it in your cmd prompt shell by typing   pip install pyttsx3
