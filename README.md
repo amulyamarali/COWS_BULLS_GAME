@@ -15,4 +15,6 @@ Thank you for looking into it.
 PACKAGES TO BE INSTALLED:
 pyttsx3
 
-you can install it in your cmd prompt shell by typing   pip install pyttsx3
+you can install it in your cmd prompt shell by typing:
+
+pip install pyttsx3
